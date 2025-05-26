@@ -6,7 +6,7 @@ Uma API moderna desenvolvida com [Quart](https://pgjones.gitlab.io/quart/) (um F
 
 ## 📁 Estrutura do Projeto
 
-<img src""/>
+<img src="estruturaQuart.png" />
 
 
 ---

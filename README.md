@@ -6,22 +6,7 @@ Uma API moderna desenvolvida com [Quart](https://pgjones.gitlab.io/quart/) (um F
 
 ## 📁 Estrutura do Projeto
 
-quart-clean-arch/
-│
-├── app/
-│ ├── controllers/ # Controladores (rotas organizadas por domínio)
-│ ├── core/ # Lógica compartilhada (autenticação, segurança, utils)
-│ ├── docs/ # Swagger JSON (documentação da API)
-│ ├── entities/ # Entidades da aplicação
-│ ├── repositories/ # Repositórios que acessam o banco de dados
-│ ├── routes/ # Registro das rotas
-│ ├── usecase/ # Casos de uso (regras de negócio)
-│ ├── database.py # Conexão assíncrona com SQLite
-│ └── config.py # Configurações gerais (chave JWT, DB path etc.)
-│
-├── main.py # Ponto de entrada da aplicação
-├── requirements.txt # Dependências do projeto
-└── README.md # Este arquivo
+<img src""/>
 
 
 ---

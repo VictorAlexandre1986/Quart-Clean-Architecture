@@ -43,6 +43,7 @@ Com documentação : http://localhost:5000/docs
 
 ## 🛠️ Rotas Disponíveis
  <img src="totas1.png" />
+ <img src="totas2.png" />
 
 🔐 Logins (JWT obrigatório)
 Método	Rota	Descrição

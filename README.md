@@ -41,18 +41,8 @@ A API será servida em: http://localhost:5000
 Com documentação : http://localhost:5000/docs
 
 
-🛠️ Rotas Disponíveis
-✅ Registro & Autenticação
-Método	Rota	Descrição
-POST	/register	Registra novo usuário
-POST	/login	Login com JWT
-
-👤 Usuários (JWT obrigatório)
-Método	Rota	Descrição
-GET	/users	Lista todos os usuários
-GET	/users/<id>	Busca um usuário por ID
-PUT	/users/<id>	Atualiza dados do usuário
-DELETE	/users/<id>	Deleta o usuário
+## 🛠️ Rotas Disponíveis
+ <img src="totas1.png" />
 
 🔐 Logins (JWT obrigatório)
 Método	Rota	Descrição
